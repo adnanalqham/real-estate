@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+			    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/1/homepage</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/1/homepage"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/1/homepage</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/1/homepage"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/176/homepage_regular</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/176/homepage_regular"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/176/homepage_regular</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/176/homepage_regular"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/177/home_page_slider</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/177/home_page_slider"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/177/home_page_slider</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/177/home_page_slider"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/175/results</loc>
+	<lastmod>2020-04-07T10:50:12+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/175/results"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/175/results</loc>
+	<lastmod>2020-04-07T10:50:12+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/175/results"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/6/map</loc>
+	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/6/map"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/6/map</loc>
+	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/6/map"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/174/no_map_version</loc>
+	<lastmod>2020-04-07T10:49:25+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/174/no_map_version"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/174/no_map_version</loc>
+	<lastmod>2020-04-07T10:49:25+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/174/no_map_version"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/169/agents</loc>
+	<lastmod>2014-08-01T19:02:31+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/169/agents"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/169/agents</loc>
+	<lastmod>2014-08-01T19:02:31+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/169/agents"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/147/featured</loc>
+	<lastmod>2014-04-05T10:33:02+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/147/featured"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/147/featured</loc>
+	<lastmod>2014-04-05T10:33:02+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/147/featured"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/5/about_us</loc>
+	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/5/about_us"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/5/about_us</loc>
+	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/5/about_us"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/142/blog_page</loc>
+	<lastmod>2014-01-04T22:19:49+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/142/blog_page"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/142/blog_page</loc>
+	<lastmod>2014-01-04T22:19:49+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/142/blog_page"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/145/full</loc>
+	<lastmod>2014-03-02T11:55:40+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/145/full"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/145/full</loc>
+	<lastmod>2014-03-02T11:55:40+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/145/full"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/143/custom_search</loc>
+	<lastmod>2014-02-10T10:54:19+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/143/custom_search"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/143/custom_search</loc>
+	<lastmod>2014-02-10T10:54:19+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/143/custom_search"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/3/rent</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/3/rent"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/3/rent</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/3/rent"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/2/sale</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/2/sale"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/2/sale</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/2/sale"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/144/sale_and_rent</loc>
+	<lastmod>2014-02-20T16:16:30+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/144/sale_and_rent"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/144/sale_and_rent</loc>
+	<lastmod>2014-02-20T16:16:30+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/144/sale_and_rent"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/146/google_link</loc>
+	<lastmod>2014-03-15T18:18:13+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/146/google_link"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/146/google_link</loc>
+	<lastmod>2014-03-15T18:18:13+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/146/google_link"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/157/articles</loc>
+	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/157/articles"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/157/articles</loc>
+	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/157/articles"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/158/test_article_2</loc>
+	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/158/test_article_2"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/158/test_article_2</loc>
+	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/158/test_article_2"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/156/article_test</loc>
+	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/156/article_test"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/156/article_test</loc>
+	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/156/article_test"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/160/showroom</loc>
+	<lastmod>2014-04-27T20:45:54+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/160/showroom"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/160/showroom</loc>
+	<lastmod>2014-04-27T20:45:54+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/160/showroom"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/161/ask_expert</loc>
+	<lastmod>2014-05-10T13:27:50+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/161/ask_expert"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/161/ask_expert</loc>
+	<lastmod>2014-05-10T13:27:50+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/161/ask_expert"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/4/contact</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/4/contact"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/4/contact</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/4/contact"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/en/173/treefield_sitemap</loc>
+	<lastmod>2015-01-20T18:56:43+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="de"
+        href="http://localhost/real-estate-agency-portal-master/index.php/de/173/treefield_sitemap"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/de/173/treefield_sitemap</loc>
+	<lastmod>2015-01-20T18:56:43+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://localhost/real-estate-agency-portal-master/index.php/en/173/treefield_sitemap"
+    />
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/property/30</loc>
+	<lastmod>2015-01-20T18:56:43+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+   <xhtml:link  rel="alternate" hreflang="en" href="http://localhost/real-estate-agency-portal-master/index.php/property/30/en"/>
+   <xhtml:link  rel="alternate" hreflang="de" href="http://localhost/real-estate-agency-portal-master/index.php/property/30/de"/>
+</url>
+<url>
+	<loc>http://localhost/real-estate-agency-portal-master/index.php/property/8</loc>
+	<lastmod>2016-05-13T23:23:00+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+   <xhtml:link  rel="alternate" hreflang="en" href="http://localhost/real-estate-agency-portal-master/index.php/property/8/en"/>
+   <xhtml:link  rel="alternate" hreflang="de" href="http://localhost/real-estate-agency-portal-master/index.php/property/8/de"/>
+</url>
+</urlset>

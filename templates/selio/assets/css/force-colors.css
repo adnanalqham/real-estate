@@ -1,0 +1,192 @@
+/* ======================================== */
+/* إجبار تطبيق الألوان الجديدة - أولوية عالية */
+/* ======================================== */
+
+/* إعادة تعريف الألوان مع !important */
+:root {
+    --primary-color: #ffffff !important;    /* أبيض */
+    --secondary-color: #a49b6b !important; /* بني ذهبي */
+    --accent-color: #65ac25 !important;    /* أخضر */
+}
+
+/* إجبار تطبيق الألوان على جميع العناصر */
+
+/* 1. الأزرار - أولوية عالية */
+.btn-primary,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:hover {
+    background-color: #a49b6b !important;  /* استخدام اللون الثانوي للأزرار */
+    border-color: #a49b6b !important;
+    color: white !important;
+}
+
+.btn-secondary,
+.btn-secondary:active,
+.btn-secondary:focus,
+.btn-secondary:hover {
+    background-color: #65ac25 !important;  /* استخدام اللون الأخضر */
+    border-color: #65ac25 !important;
+    color: white !important;
+}
+
+.btn-success,
+.btn-success:active,
+.btn-success:focus,
+.btn-success:hover {
+    background-color: #65ac25 !important;
+    border-color: #65ac25 !important;
+    color: white !important;
+}
+
+/* 2. الروابط - أولوية عالية */
+a,
+a:link,
+a:visited {
+    color: #a49b6b !important;  /* استخدام اللون البني الذهبي للروابط */
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: #65ac25 !important;  /* استخدام اللون الأخضر عند hover */
+}
+
+/* 3. العلامة التجارية */
+.navbar-brand,
+.navbar-brand:hover,
+.navbar-brand:focus {
+    color: #a49b6b !important;  /* استخدام اللون البني الذهبي */
+}
+
+/* 4. الهيدر */
+.header,
+.navbar,
+.navbar-default {
+    background-color: #ffffff !important;
+    border-bottom: 2px solid #e8e0c0 !important;
+}
+
+/* 5. الفوتر */
+footer,
+.footer {
+    background-color: #2c2c2c !important;
+    color: white !important;
+}
+
+/* 6. النماذج */
+.form-control:focus {
+    border-color: #a49b6b !important;  /* استخدام اللون البني الذهبي */
+    box-shadow: 0 0 0 0.2rem rgba(164, 155, 107, 0.25) !important;
+}
+
+/* 7. التنبيهات */
+.alert-success {
+    background-color: rgba(101, 172, 37, 0.1) !important;
+    border-color: #65ac25 !important;
+    color: #65ac25 !important;
+}
+
+.alert-warning {
+    background-color: rgba(164, 155, 107, 0.1) !important;
+    border-color: #a49b6b !important;
+    color: #a49b6b !important;
+}
+
+.alert-info {
+    background-color: rgba(164, 155, 107, 0.1) !important;
+    border-color: #a49b6b !important;
+    color: #a49b6b !important;
+}
+
+/* 8. القوائم */
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    background-color: #a49b6b !important;  /* استخدام اللون البني الذهبي */
+    border-color: #a49b6b !important;
+    color: white !important;
+}
+
+/* 9. الجداول */
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: #f5f3e8 !important;
+}
+
+.table-hover > tbody > tr:hover {
+    background-color: rgba(164, 155, 107, 0.1) !important;
+}
+
+/* 10. شريط التقدم */
+.progress-bar {
+    background-color: #a49b6b !important;  /* استخدام اللون البني الذهبي */
+}
+
+/* 11. الأيقونات */
+.fa,
+.icon,
+.glyphicon {
+    color: #a49b6b !important;  /* استخدام اللون البني الذهبي */
+}
+
+/* 12. البطاقات والصناديق */
+.card,
+.widget,
+.panel {
+    border-color: #e8e0c0 !important;
+    box-shadow: 0 2px 8px rgba(164, 155, 107, 0.1) !important;
+}
+
+.card-header,
+.widget-head,
+.panel-heading {
+    background-color: #f5f3e8 !important;
+    border-bottom-color: #e8e0c0 !important;
+}
+
+/* 13. الأزرار الواضحة */
+.btn-clear,
+.btn-outline {
+    color: #a49b6b !important;  /* استخدام اللون البني الذهبي */
+    border-color: #a49b6b !important;
+    background-color: transparent !important;
+}
+
+.btn-clear:hover,
+.btn-outline:hover {
+    background-color: #a49b6b !important;  /* استخدام اللون البني الذهبي */
+    color: white !important;
+}
+
+/* 14. تأثيرات إضافية */
+.hover-gold:hover {
+    color: #a49b6b !important;  /* استخدام اللون البني الذهبي */
+}
+
+.bg-gold-light {
+    background-color: #f5f3e8 !important;
+}
+
+.text-gold {
+    color: #a49b6b !important;  /* استخدام اللون البني الذهبي */
+}
+
+.border-gold {
+    border-color: #a49b6b !important;  /* استخدام اللون البني الذهبي */
+}
+
+/* 15. إجبار تطبيق الألوان على جميع العناصر */
+*[style*="color: #6a7be7"],
+*[style*="color:#6a7be7"] {
+    color: #a49b6b !important;  /* استخدام اللون البني الذهبي */
+}
+
+*[style*="background-color: #6a7be7"],
+*[style*="background-color:#6a7be7"] {
+    background-color: #a49b6b !important;  /* استخدام اللون البني الذهبي */
+}
+
+*[style*="border-color: #6a7be7"],
+*[style*="border-color:#6a7be7"] {
+    border-color: #a49b6b !important;  /* استخدام اللون البني الذهبي */
+}
